@@ -1,7 +1,5 @@
 # Language Model Evaluation Harness
-
-![](https://github.com/EleutherAI/lm-evaluation-harness/workflows/Build/badge.svg)
-[![codecov](https://codecov.io/gh/EleutherAI/lm-evaluation-harness/branch/master/graph/badge.svg?token=JSG3O2427J)](https://codecov.io/gh/EleutherAI/lm-evaluation-harness)
+This repository is forked from [EleutherAI](https://github.com/EleutherAI/lm-evaluation-harness)
 
 ## Overview
 
@@ -19,7 +17,7 @@ Features:
 To install `lm-eval` from the github repository main branch, run:
 
 ```bash
-git clone https://github.com/EleutherAI/lm-evaluation-harness
+git clone https://github.com/davidvblumenthal/lm-evaluation-harness
 cd lm-evaluation-harness
 pip install -e .
 ```
